@@ -1,16 +1,22 @@
-### Hi there 👋
+# Kostik_rut 🧙
 
-<!--
-**Kostikrut/kostikrut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Coding Wizard (full-stack developer if to be more precise)`**
 
-Here are some ideas to get you started:
+👋 Hello World! I'm Kostya, a passionate and self-taught full-stack web developer on a mission to turn ideas into interactive and user-friendly digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've polished my skills in front-end and back-end development, creating seamless and responsive applications. From crafting pixel-perfect user interfaces with HTML, CSS, and JavaScript to building robust server-side logic using Node.js, I thrive on the challenge of bringing ideas to life in the digital realm. All projects were built, planed and designed from scratch 
+
+### My tech stack includes:
+
+Frontend: **`HTML, CSS, JavaScript, React.js`** 
+
+Backend: **`Node.js, Express.js`**
+
+Database: **`MongoDB`**
+
+Tools: **`Git, VS Code`**
+
+
+
+Without further ado, Let's colaborate and code together
+
