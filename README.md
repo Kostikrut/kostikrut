@@ -1,6 +1,6 @@
 # Kostik_rut 🧙
 
-**`Coding Wizard (full-stack developer if to be more precise)`**
+**`Coding Wizard (full-stack developer to be more precise)`**
 
 👋 Hello World! I'm Kostya, a passionate and self-taught full-stack web developer on a mission to turn ideas into interactive and user-friendly digital experiences.
 
@@ -14,7 +14,7 @@ Backend: **`Node.js, Express.js`**
 
 Database: **`MongoDB`**
 
-Tools: **`Git, VS Code`**
+Tools: **`Git, VSCode`**
 
 
 
