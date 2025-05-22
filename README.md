@@ -1,6 +1,6 @@
 # Kostik_rut 🧙
 
-**`Coding Wizard (full-stack developer to be more precise)`**
+**`Web Developer`**
 
 👋 Hello World! I'm Kostya, a passionate and self-taught full-stack web developer on a mission to turn ideas into interactive and user-friendly digital experiences.
 
